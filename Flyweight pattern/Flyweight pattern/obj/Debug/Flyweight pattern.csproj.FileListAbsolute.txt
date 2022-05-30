@@ -1,0 +1,3 @@
+C:\Users\Arpita_Verma\source\repos\Flyweight pattern\Flyweight pattern\obj\Debug\Flyweight pattern.csproj.AssemblyReference.cache
+C:\Users\Arpita_Verma\source\repos\Flyweight pattern\Flyweight pattern\obj\Debug\Flyweight pattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arpita_Verma\source\repos\Flyweight pattern\Flyweight pattern\obj\Debug\Flyweight pattern.csproj.CoreCompileInputs.cache
